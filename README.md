@@ -78,6 +78,12 @@ Examples include:
 - Ankle angle analysis
 - Console output for each implementation
 
+Figure examples:
+
+<Figure size 1000x500 with 1 Axes><img width="989" height="490" alt="image" src="https://github.com/user-attachments/assets/25944535-2b3b-489c-92c5-d5eaf1921845" />
+
+<Figure size 1000x500 with 1 Axes><img width="989" height="490" alt="image" src="https://github.com/user-attachments/assets/4acd5e68-616c-4c5c-9c44-80612be5a707" />
+
 ---
 
 ## Documentation
